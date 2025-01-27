@@ -17,7 +17,7 @@ body { background:none; padding:0;  margin: 0; }
 #button_fe2fc3f { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:284px; height:40px; min-width:262px; max-width:262px; background-color:#4B52A7; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 #button_65e5c569 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:284px; height:40px; min-width:262px; max-width:262px; background-color:#4B52A7; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 #placeh_14e88ee0 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
-#container_b749fb5 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:380px; min-width:1330px; max-width:1330px; background-color:#FFFFED;  }
+#container_b749fb5 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:1440px; min-width:1920px; max-width:1920px; background-color:#FFFFED;  }
 #container_b749fb5_padding { margin: 10px; display: block;  }
 #container_65c7c3f5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:370px; background:none;  }
 #container_65c7c3f5_padding { margin: 10px; display: block;  }
@@ -26,7 +26,6 @@ body { background:none; padding:0;  margin: 0; }
 .textstyle4 { font-size:25pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
 .textstyle5 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
 #img_ee07095 { position:absolute; left:11%; top:59%; width:13%; background:none; height:auto;  }
-#video_62a4ca17 { box-sizing: border-box; position:absolute; left:47%; top:22%; width:82%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 #youtube_2fd71083 { box-sizing: border-box; position:absolute; left:27%; top:1%; width:49%; height:351px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 @media only screen and (max-width: 400px)
 {
