@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/home", "destination": "/index.htmll" },
+    { "source": "/hero1", "destination": "/hero1.html" },
+    { "source": "/hero1-video", "destination": "/hero1video.html" }
+  ]
+}
